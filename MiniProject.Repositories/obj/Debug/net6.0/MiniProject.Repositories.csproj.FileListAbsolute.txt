@@ -1,0 +1,12 @@
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\bin\Debug\net6.0\MiniProject.Repositories.deps.json
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\bin\Debug\net6.0\MiniProject.Repositories.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\bin\Debug\net6.0\MiniProject.Repositories.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.AssemblyInfo.cs
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\refint\MiniProject.Repositories.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\MiniProject.Repositories.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Repositories\obj\Debug\net6.0\ref\MiniProject.Repositories.dll

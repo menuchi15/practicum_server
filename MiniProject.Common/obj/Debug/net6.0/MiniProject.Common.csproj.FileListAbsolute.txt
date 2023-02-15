@@ -1,0 +1,12 @@
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\bin\Debug\net6.0\MiniProject.Common.deps.json
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\bin\Debug\net6.0\MiniProject.Common.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\bin\Debug\net6.0\MiniProject.Common.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.AssemblyInfoInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.AssemblyInfo.cs
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\refint\MiniProject.Common.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\MiniProject.Common.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.Common\obj\Debug\net6.0\ref\MiniProject.Common.dll

@@ -1,0 +1,17 @@
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.DataContext.deps.json
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.DataContext.runtimeconfig.json
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.DataContext.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.DataContext.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.Repositories.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\bin\Debug\net6.0\MiniProject.Repositories.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.AssemblyInfoInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.AssemblyInfo.cs
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.csproj.CopyComplete
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\refint\MiniProject.DataContext.dll
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.pdb
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\MiniProject.DataContext.genruntimeconfig.cache
+C:\Users\USER\3D Objects\שנה ב\miniProject\MiniProject\MiniProject.DataContext\obj\Debug\net6.0\ref\MiniProject.DataContext.dll
