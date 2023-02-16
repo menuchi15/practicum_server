@@ -12,12 +12,12 @@ namespace MiniProject.Repositories.Entities
         public int Id { get; set; }
 
         [Required]
-        public string? Name { get; set; }
+        public string Name { get; set; }
 
         [Required]
-        public string? IdNumber { get; set; }
+        public string IdNumber { get; set; }
 
         [Required]
-        public DateTime? BirthDate { get; set; }
+        public DateTime BirthDate { get; set; }
     }
 }

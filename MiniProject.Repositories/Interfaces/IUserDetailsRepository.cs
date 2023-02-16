@@ -13,6 +13,6 @@ namespace MiniProject.Repositories.Interfaces
 
         Task<UserDetails> GetByIdAsync(int id);
 
-        Task<UserDetails> AddAsync(string firstName,string lastName,string idNumber,DateTime birthDate, string gender, string hmo,List<Child> children);
+        Task<UserDetails> AddAsync(UserDetails details);
     }
 }

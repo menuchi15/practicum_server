@@ -22,10 +22,10 @@ namespace MiniProject.Services.Services
             _mapper = mapper;
         }
 
-        public async Task<UserDetailsDTO> AddAsync(string firstName, string lastName, string idNumber, DateTime birthDate, string gender, string hmo, List<ChildDTO> children)
+        public async Task<UserDetailsDTO> AddAsync(UserDetailsDTO details)
         {
 
-            return _mapper.Map<UserDetailsDTO>(await _userDetails.AddAsync(firstName, lastName, idNumber, birthDate, gender, hmo, _mapper.Map<List<Child>>(children)));
+            return _mapper.Map<UserDetailsDTO>(await _userDetails.AddAsync(_mapper.Map<UserDetails>(details)));
         }
 
         public async Task<List<UserDetailsDTO>> GetAllAsync()

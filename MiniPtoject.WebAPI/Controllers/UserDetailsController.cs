@@ -31,9 +31,14 @@ namespace MiniProject.WebAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<UserDetailsDTO> AddAsync([FromBody] DetailsModel d)
+        public async Task<ActionResult<UserDetailsDTO>> AddAsync([FromBody] DetailsModel d)
         {
-            return await _userDetailsService.AddAsync(d.FirstName, d.LastName, d.IdNumber, d.BirthDate, d.Gender, d.HMO,d.Children);
+            List<ChildDTO> cl = new List<ChildDTO>();
+            foreach(ChildModel child in d.Children)
+            {
+                cl.Add(new ChildDTO { Name= child.Name ,IdNumber=child.IdNumber,BirthDate=child.BirthDate});
+            }
+            return await _userDetailsService.AddAsync(new UserDetailsDTO { FirstName = d.FirstName, LastName = d.LastName, IdNumber = d.IdNumber, BirthDate = d.BirthDate, Gender = d.Gender, HMO = d.HMO, Children = cl });
         }
     }
 }

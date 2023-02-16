@@ -1,5 +1,4 @@
-﻿using MiniProject.Common.DTOs;
-using MiniProject.Repositories.Entities;
+﻿using MiniProject.Repositories.Entities;
 
 namespace MiniProject.WebAPI.Models
 {
@@ -17,7 +16,7 @@ namespace MiniProject.WebAPI.Models
 
         public string HMO { get; set; }
 
-        public List<ChildDTO> Children { get; set; }
+        public List<ChildModel> Children { get; set; }
         
     }
 }
