@@ -27,12 +27,12 @@ namespace MiniProject.Repositories.Repositories
 
         public async Task<List<UserDetails>> GetAllAsync()
         {
-            return await _context.UserDetails.ToListAsync();
+            return await _context.UserDetails.Include(user=>user.Children).ToListAsync();
         }
 
         public async Task<UserDetails> GetByIdAsync(int id)
         {
-            return await _context.UserDetails.FindAsync(id);
+            return await _context.UserDetails.Include(user=>user.Children).FirstOrDefaultAsync(c=> c.Id == id);
         }
     }
 }
